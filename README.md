@@ -5,20 +5,20 @@ Write a simple program to implement solution to this problem using CORE PROGRAMM
 
 ## Result 
 
-Number = 1000000
+Number = 1000000    
 ![Screenshot](i_1000000.png)  
 
-Number = 1000
+Number = 1000    
 ![Screenshot](i_1000.png)
 
-Number = 953
+Number = 953  
 ![Screenshot](i_953.png)
 
-Number = 41
+Number = 41  
 ![Screenshot](i_41.png)
 
 Question   
 Which prime, below one-million, can be written as the sum of the most consecutive primes?  
 
-Answer
+Answer    
 prime 998857, contains 509 terms
